@@ -27,7 +27,7 @@ A **Dev Shop** é uma loja virtual fictícia criada com React e Vite, que consom
 ## 🖼️ Demonstração
 
 👉 Acesse a versão online aqui:  
-[https://dev-shop.vercel.app](https://dev-shop.vercel.app)
+[https://devshop-black.vercel.app](https://devshop-black.vercel.app)
 
 ## 💻 Como executar localmente
 
@@ -92,4 +92,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Feito com 💙 por [Antônio Neto](https://github.com/antonionetopc)
+Feito com 💙 por [Antônio Neto](https://github.com/antoni0jsneto)
