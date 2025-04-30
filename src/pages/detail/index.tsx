@@ -1,4 +1,4 @@
-import { use, useContext, useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { ProductProps } from "../home";
 import { api } from "../../services/api";
